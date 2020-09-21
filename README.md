@@ -1,4 +1,4 @@
-### Arch Linux Theme
+# Arch Linux Theme
 
 My Arch linux theme created using Suckless Software
 https://suckless.org/
@@ -22,7 +22,7 @@ https://suckless.org/
   - https://draculatheme.com/
 - fontawesome font and icons
 
-# Tips
+### Tips
 
 - patch alpha first in dwm
 - make changes to config.def.h 
